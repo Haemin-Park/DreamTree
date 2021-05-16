@@ -1,6 +1,3 @@
-<p align="center">
-<img width="50%" src="https://user-images.githubusercontent.com/54823396/118360025-cfd31e80-b5c0-11eb-9894-b3a369237579.png"> 
-</p>
 <h3 align="center">🏆 제 12기 SW 마에스트로 해커톤 2등 수상 🏆</h3>
 
 <h1 align="center">🌳 DreamTree 🌳</h1>
